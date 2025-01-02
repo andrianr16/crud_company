@@ -16,7 +16,7 @@
   <!-- inject:css -->
   <link rel="stylesheet" href="<?= base_url('assets/admin') ?>/css/vertical-layout-light/style.css">
   <!-- endinject -->
-  <link rel="shortcut icon" href="<?= base_url('assets/admin') ?>/images/favicon.png" />
+  <link rel="shortcut icon" href="<?= base_url('assets/admin') ?>/images/logo-mini.svg" />
 </head>
 
 <body>
